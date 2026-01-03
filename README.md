@@ -1,4 +1,4 @@
-# 📧 Spam or Not Spam?
+# Spam or Not Spam?
 
 In this project, I trained **three different machine learning models** to solve a classic problem: spam detection. But instead of declaring a winner based on one shiny metric, I went a step further and compare their performance based on three different metrics with statistics.
 > “Is this model *actually* better — or just lucky?”
